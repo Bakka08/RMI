@@ -29,8 +29,10 @@
 3. Explore different functionalities and observe how RMI enables remote method invocation between the client and server components.
 
 
-## Video Demonstration
+## Demonstration
 
+![Screenshot 1](Screenshot_1.png)
+![Screenshot 2](Screenshot_2.png)
 
 
 
